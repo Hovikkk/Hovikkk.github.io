@@ -52,7 +52,7 @@ module.exports = "<!-- <footer id=\"sticky-footer\" class=\"py-4 bg-secondary te
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<app-navbar></app-navbar>\n<header>\n    <div class=\"overlay\"></div>\n    <video playsinline=\"playsinline\" autoplay=\"autoplay\" muted=\"muted\" loop=\"loop\">\n      <source src=\"https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4\" type=\"video/mp4\">\n    </video>\n    <div class=\"container h-100\">\n        <div class=\"d-flex h-100 text-center align-items-center\">\n            <div class=\"w-100 text-white\">\n                <h1 class=\"display-3\">Video Header</h1>\n                <p class=\"lead mb-0\">With HTML5 Video and Bootstrap 4</p>\n            </div>\n        </div>\n    </div>\n</header>"
+module.exports = "<app-navbar></app-navbar>\n<header>\n    <div class=\"overlay\"></div>\n    <video playsinline=\"playsinline\" autoplay=\"autoplay\" muted=\"muted\" loop=\"loop\">\n      <source src=\"../../assets/video.mp4\" type=\"video/mp4\">\n    </video>\n    <div class=\"container h-100\">\n        <div class=\"d-flex h-100 text-center align-items-center\">\n            <div class=\"w-100 text-white\">\n                <h1 class=\"display-3\">Video Header</h1>\n                <p class=\"lead mb-0\">With HTML5 Video and Bootstrap 4</p>\n            </div>\n        </div>\n    </div>\n</header>"
 
 /***/ }),
 
